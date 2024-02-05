@@ -1,5 +1,5 @@
 /* Variable */
-const localPath = './question.jason'; // Local path to questions.json
+const localPath = 'https://github.com/azizatanfous/surprise/blob/main/question.jason'; // Local path to questions.json
 let timer = document.querySelector('.timer');
 let btnBox = Array.from(document.querySelectorAll('.answer-btn'));
 let answerBox = Array.from(document.querySelectorAll('.answer'));
