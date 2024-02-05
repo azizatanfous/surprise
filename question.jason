@@ -1,0 +1,420 @@
+{
+	"games": [
+		{
+			"questions": [
+				{
+					"question": "What is the official name of Benfica Football Club?",
+					"content": [
+						"Sporting CP",
+						"FC Porto",
+						"SL Benfica",
+						"SC Braga"
+					],
+					"correct": 2
+				},
+				{
+					"question": "Which city is the home ground of SL Benfica?",
+					"content": [
+						"Lisbon",
+						"Porto",
+						"Coimbra",
+						"Faro"
+					],
+					"correct": 0
+				},
+				{
+					"question": "Who is the all-time top scorer for Benfica in official competitions?",
+					"content": [
+						"Eusébio",
+						"Rui Costa",
+						"Nuno Gomes",
+						"Jonas"
+					],
+					"correct": 0
+				},
+				{
+					"question": "Which Portuguese island is known for its famous soccer players and beautiful landscapes?",
+					"content": [
+						"Madeira",
+						"Azores",
+						"Porto Santo",
+						"Terceira"
+					],
+					"correct": 0
+				},
+				{
+					"question": "What is the capital city of Portugal?",
+					"content": [
+						"Lisbon",
+						"Madrid",
+						"Barcelona",
+						"Rome"
+					],
+					"correct": 0
+				},
+				{
+					"question": "Who is the author of the Harry Potter book series?",
+					"content": [
+						"J.R.R. Tolkien",
+						"J.K. Rowling",
+						"C.S. Lewis",
+						"George R.R. Martin"
+					],
+					"correct": 1
+				},
+				{
+					"correct": 1,
+					"content": [
+						"Middle-earth",
+						"Narnia",
+						"Westeros",
+						"Hogwarts"
+					],
+					"question": "In which fictional world does 'The Lord of the Rings' take place?"
+				},
+				{
+					"correct": 0,
+					"content": [
+						"The Shire",
+						"Gondor",
+						"Mordor",
+						"Rivendell"
+					],
+					"question": "What is the homeland of the Hobbits in 'The Lord of the Rings'?"
+				},
+				{
+					"correct": 0,
+					"content": [
+						"Frodo Baggins",
+						"Aragorn",
+						"Gandalf",
+						"Legolas"
+					],
+					"question": "Who is the main protagonist in 'The Lord of the Rings'?"
+				},
+				{
+					"correct": 3,
+					"content": [
+						"Striker",
+						"Midfielder",
+						"Goalkeeper",
+						"Defender"
+					],
+					"question": "In football (soccer), what is the primary role of a player with the position 'Number 10'?"
+				}
+			]
+		},
+		{
+			"questions": [
+				{
+					"question": "Which river flows through Lisbon, the capital of Portugal?",
+					"content": [
+						"Douro",
+						"Tagus",
+						"Guadiana",
+						"Sado"
+					],
+					"correct": 1
+				},
+				{
+					"question": "In which year did Portugal win their first UEFA European Football Championship?",
+					"content": [
+						"2000",
+						"2012",
+						"2016",
+						"2004"
+					],
+					"correct": 3
+				},
+				{
+					"question": "What is the highest mountain range in Portugal?",
+					"content": [
+						"Serra da Estrela",
+						"Serra do Gerês",
+						"Serra do Marão",
+						"Serra de Montejunto"
+					],
+					"correct": 0
+				},
+				{
+					"question": "Which famous Portuguese explorer was the first to reach India by sea?",
+					"content": [
+						"Fernão Mendes Pinto",
+						"Vasco da Gama",
+						"Henry the Navigator",
+						"Bartolomeu Dias"
+					],
+					"correct": 1
+				},
+				{
+					"question": "What is the official language of Portugal?",
+					"content": [
+						"Spanish",
+						"Portuguese",
+						"Galician",
+						"Catalan"
+					],
+					"correct": 1
+				},
+				{
+					"correct": 0,
+					"content": [
+						"Quidditch",
+						"Snitch",
+						"Broomstick",
+						"Hogwarts Express"
+					],
+					"question": "In the Harry Potter series, what is the name of the magical sport played on broomsticks?"
+				},
+				{
+					"correct": 3,
+					"content": [
+						"Platform 9¾",
+						"Diagon Alley",
+						"The Leaky Cauldron",
+						"Gringotts Wizarding Bank"
+					],
+					"question": "Where can wizards access their money and perform banking transactions in the wizarding world?"
+				},
+				{
+					"correct": 2,
+					"content": [
+						"Ravenclaw",
+						"Slytherin",
+						"Gryffindor",
+						"Hufflepuff"
+					],
+					"question": "Which house at Hogwarts School of Witchcraft and Wizardry values ambition, cunning, leadership, and resourcefulness?"
+				},
+				{
+					"correct": 1,
+					"content": [
+						"Hogwarts",
+						"Durmstrang",
+						"Beauxbatons",
+						"Ilvermorny"
+					],
+					"question": "In the wizarding world, where did Victor Krum attend magical education?"
+				},
+				{
+					"correct": 2,
+					"content": [
+						"Gandalf",
+						"Aragorn",
+						"Frodo Baggins",
+						"Sauron"
+					],
+					"question": "Who is known as the 'White Wizard' in 'The Lord of the Rings'?"
+				}
+			]
+		},
+		{
+			"questions": [
+				{
+					"question": "Which Portuguese river is famous for its wine production?",
+					"content": [
+						"Douro",
+						"Tagus",
+						"Sado",
+						"Guadiana"
+					],
+					"correct": 0
+				},
+				{
+					"question": "What is the capital city of Middle-earth in 'The Lord of the Rings'?",
+					"content": [
+						"Minas Tirith",
+						"Rivendell",
+						"Lothlórien",
+						"Mordor"
+					],
+					"correct": 0
+				},
+				{
+					"question": "Which country shares a border with Portugal?",
+					"content": [
+						"Spain",
+						"France",
+						"Italy",
+						"Germany"
+					],
+					"correct": 0
+				},
+				{
+					"question": "In 'The Lord of the Rings,' what is the name of Aragorn's sword?",
+					"content": [
+						"Sting",
+						"Andúril",
+						"Glamdring",
+						"Narsil"
+					],
+					"correct": 1
+				},
+				{
+					"question": "Which actor played the character of Aragorn in 'The Lord of the Rings' film trilogy?",
+					"content": [
+						"Elijah Wood",
+						"Viggo Mortensen",
+						"Ian McKellen",
+						"Orlando Bloom"
+					],
+					"correct": 1
+				},
+				{
+					"correct": 3,
+					"content": [
+						"Soccer",
+						"Cricket",
+						"Tennis",
+						"Golf"
+					],
+					"question": "In which sport did Cristiano Ronaldo begin his professional career?"
+				},
+				{
+					"correct": 1,
+					"content": [
+						"UEFA Champions League",
+						"FIFA World Cup",
+						"Premier League",
+						"Copa del Rey"
+					],
+					"question": "Which prestigious football competition did SL Benfica win twice in the 1960s?"
+				},
+				{
+					"correct": 0,
+					"content": [
+						"Quaffle",
+						"Golden Snitch",
+						"Bludger",
+						"Broomstick"
+					],
+					"question": "In the sport of Quidditch, what is the name of the ball that seekers chase to end the game and earn points?"
+				},
+				{
+					"correct": 2,
+					"content": [
+						"Estádio da Luz",
+						"Estádio do Dragão",
+						"Estádio José Alvalade",
+						"Estádio do Bessa"
+					],
+					"question": "Which stadium is the home ground of FC Porto?"
+				},
+				{
+					"correct": 0,
+					"content": [
+						"Fado",
+						"Samba",
+						"Tango",
+						"Flamenco"
+					],
+					"question": "Which traditional music genre is famous in Portugal and often associated with a feeling of nostalgia and longing?"
+				}
+			]
+		},
+		{
+			"questions": [
+				{
+					"question": "Which European country is known for its beautiful Azulejo tiles?",
+					"content": [
+						"Spain",
+						"Italy",
+						"Portugal",
+						"Greece"
+					],
+					"correct": 2
+				},
+				{
+					"question": "In 'Harry Potter and the Goblet of Fire,' who was the Defense Against the Dark Arts teacher during the Triwizard Tournament?",
+					"content": [
+						"Dolores Umbridge",
+						"Gilderoy Lockhart",
+						"Remus Lupin",
+						"Mad-Eye Moody"
+					],
+					"correct": 3
+				},
+				{
+					"question": "What is the nickname for Portugal's national football team?",
+					"content": [
+						"Seleção das Quinas",
+						"La Furia Roja",
+						"Les Bleus",
+						"The Three Lions"
+					],
+					"correct": 0
+				},
+				{
+					"question": "Which mountain range separates the Iberian Peninsula from the rest of Europe?",
+					"content": [
+						"Pyrenees",
+						"Alps",
+						"Carpathians",
+						"Apennines"
+					],
+					"correct": 0
+				},
+				{
+					"question": "What is the capital city of Gondor in 'The Lord of the Rings'?",
+					"content": [
+						"Minas Tirith",
+						"Rohan",
+						"Lothlórien",
+						"Isengard"
+					],
+					"correct": 0
+				},
+				{
+					"correct": 2,
+					"content": [
+						"Middle-earth",
+						"Narnia",
+						"Westeros",
+						"Hogwarts"
+					],
+					"question": "In which fictional world does 'The Hobbit' take place?"
+				},
+				{
+					"correct": 0,
+					"content": [
+						"Aberforth",
+						"Albus",
+						"Percival",
+						"Gellert"
+					],
+					"question": "What is the first name of Professor Dumbledore in the Harry Potter series?"
+				},
+				{
+					"correct": 1,
+					"content": [
+						"Minerva McGonagall",
+						"Filius Flitwick",
+						"Severus Snape",
+						"Alastor Moody"
+					],
+					"question": "Who is the head of Gryffindor house at Hogwarts?"
+				},
+				{
+					"correct": 0,
+					"content": [
+						"Vincent Kompany",
+						"Eden Hazard",
+						"Kevin De Bruyne",
+						"Cristiano Ronaldo"
+					],
+					"question": "Which Belgian footballer played for SL Benfica before joining Manchester City?"
+				},
+				{
+					"correct": 2,
+					"content": [
+						"Quaffles",
+						"Bludgers",
+						"Snitches",
+						"Brooms"
+					],
+					"question": "In the wizarding sport of Quidditch, what are the three types of balls used during a match?"
+				}
+			]
+		}
+	]
+}
